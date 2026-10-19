@@ -39,5 +39,14 @@ O chekin é realizado através do aplicativo PretixSCAN disponível para [Androi
 
 ### Host
 
+O host é o voluntário responsável por apresentar a palestra. Você vai apresentar o palestrante, a palestra e entregar o brinde ao palestrante.
+Você vai receber 2 roteiros: Um roteiro de apresentação, anúncios e encerramento (válido para todas palestras) e um roteiro da palestra com nome do palestrante, bio do palestrante e título da palestra.
 
 ### Infra
+
+O voluntário de infra é responsável por cuidar da infraestrtura da palestra. As atividades são:
+- Trocar a indicação da palestra no lado de fora da sala.
+- Garantir que tenha água para o palestrante.
+- Levantar as placas indicativas de tempo, para que o palestrante saiba quanto tempo ainda tem. Exemplo: 15 min restantes, 10 min restantes, 5 min restantes, o tempo acabou.
+- Levar o microfone para quem vai fazer perguntas.
+- Levar o brinde até a sala de palestras para que o host entregue ao palestrante.
