@@ -1,7 +1,7 @@
 # manual do voluntariado em eventos python
 
 ## Sumário
-1. [O que é ser um voluntariado](#O-que-é-ser-um-voluntariado)
+1. [O que é ser um voluntário](#O-que-é-ser-um-voluntário)
   - [Formas de contribuir](#Formas-de-contribuir)
 2. [Voluntariado remoto](#Voluntariado-remoto)
   -  [Suporte de serviços](#Suporte-de-serviços)
@@ -11,7 +11,7 @@
   - [Host](#Host)
   - [Infra](#Infra)
 
-## O que é ser um voluntariado
+## O que é ser um voluntário
 
 Todos os eventos da comunidade Python são organizados por pessoas voluntárias que contribuem para organização, busca por recursos e por serviços qualificados para oferecer a melhor experiência para as pessoas que participarão do evento. Qualquer pessoa comprometida que tenha vontade de contribuir com horas em trabalho voluntário nos eventos Python é bem-vinda (não precisa saber Python). Usualmente, os voluntários recebem seus ingressos gratuitamente. Assim como todos os envolvidos com o evento, os voluntários também devem estar de acordo com o [Código de Conduta (CDC)](https://apyb.python.org.br/pythonbrasil/cdc/).
 
