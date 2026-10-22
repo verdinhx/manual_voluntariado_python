@@ -38,7 +38,11 @@ Os voluntários responsáveis pelo credenciamento são o primeiro contato dos pa
 O chekin é realizado através do aplicativo PretixSCAN disponível para [Android](https://play.google.com/store/apps/details?id=eu.pretix.pretixscan.droid&hl=en-US) e [Apple](https://apps.apple.com/us/app/pretixscan/id1465873864). A responsável pelos voluntários deve te passar um QRCode para configurar o aplicativo. Recomendamos que teste o funcionamento do checkin com seu próprio ingresso.
 
 ### Host
-Cada palco deverá ter um host por palestra/tutorial. O host deve apresentar o palestrante/ministrante a partir do texto informado sobre o participante no site. Deve
+
+O host é o voluntário responsável por apresentar a palestra. Você vai apresentar o palestrante, a palestra e entregar o brinde ao palestrante.
+Você vai receber 2 roteiros: Um roteiro de apresentação, anúncios e encerramento (válido para todas palestras) e um roteiro da palestra com nome do palestrante, bio do palestrante e título da palestra.
+
+Cada palco deverá ter um host por palestra/tutorial. O host deve apresentar o palestrante/ministrante a partir do texto informado sobre o participante. 
 Roteiro a ser seguido pelo host do palco:
 1. Antes da atividade
   - Trocar a placa da sala
@@ -60,7 +64,8 @@ Roteiro a ser seguido pelo host do palco:
 
 ### Infra
 1. Antes da atividade
-  - Pegar a garrafinha de água
+  - Garantir que tenha água para o palestrante
+  - Levar o brinde até a sala de palestras para que o host entregue ao palestrante
   - Conferir microfones, projetor e transmissão antes das palestras
   - Mostrar onde o intérprete de LIBRAS tem que ficar (se houver)
 2. Durante a atividade
@@ -69,4 +74,5 @@ Roteiro a ser seguido pelo host do palco:
   - Acabou: limite atingido de 45min para a palestra - vide placa abaixo
   - Finalizar: deve ser usado quando a palestra precisar ser encerrada (tanto pelo tempo estourado quanto para antecipar ou outra interrupção externa) - vide placa abaixo
 3. Final:
-  - Ficar passando os microfones para pessoas que fizeram perguntas
+  - Levar o microfone para quem vai fazer perguntas
+
